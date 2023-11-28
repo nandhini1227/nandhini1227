@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Full Stack web developer**
+- 
 
 
 
