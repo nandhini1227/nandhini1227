@@ -4,6 +4,10 @@
 <img src="./Profile/Github%20Readme.png">
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhini1227&label=Profile%20views&color=0e75b6&style=flat" alt="nandhini1227" /> </p>
+<a href="https://github.com/nandhini1227/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/nandhini1227/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=nandhini1227&column=9&theme=gruvbox&no-frame=true"/>
+</a>
 
 
 
