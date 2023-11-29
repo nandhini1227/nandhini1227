@@ -38,6 +38,7 @@
 <h2><b>Always Connect with Me</b> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px" width="100px"> </h2>
 <a href = 'www.linkedin.com/in/nandhu1294'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://leetcode.com/nandhiniperumal1227/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/leetcode.svg"/></a> 
+<a href = 'https://auth.geeksforgeeks.org/user/nandhuvig4jkt'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/geeksforgeeks.svg"/></a> 
 
 <a href = 'https://github.com/nandhini1227'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <br>
