@@ -2,8 +2,8 @@
 <h3 align="center"><b>Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world </b></h3>
 
 <img src="./Profile/Github%20Readme.png">
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*k0SazfSJ-tPSBbt2WDYIyw.png">
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*k0SazfSJ-tPSBbt2WDYIyw.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhini1227&label=Profile%20views&color=0e75b6&style=flat" alt="nandhini1227" /> </p>
 <a href="https://github.com/nandhini1227/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/nandhini1227/github-profile-trophy">
