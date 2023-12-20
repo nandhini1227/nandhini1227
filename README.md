@@ -1,6 +1,6 @@
 <h1 align="center">Hi!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height=50px width = 50px>, Welcome All..💝</h1>
 <h3 align="center"><b>Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world </b></h3>
-<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20201130/ourmid/pngtree-lettering-of-never-give-up-vintage-png-image_2492489.jpg">
+
 
 <img src="./Profile/Github%20Readme.png">
 
