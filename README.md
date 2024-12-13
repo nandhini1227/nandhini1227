@@ -1,69 +1,105 @@
-# Nandhini - Full-Stack Developer
+<h1 align="center">Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height=50px width = 50px>, Welcome All..💝</h1>
 
-<img src="./Profile/your_professional_photo.jpg" alt="Profile Picture" width="300px">  <!-- Replace with your professional photo -->
+<h3 align="center"><b>Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world </b></h3>
 
-**A highly motivated and results-oriented full-stack developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js).  Passionate about creating innovative and user-friendly web applications.**
+<img src="./Profile/Github%20Readme.png">
 
----
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E16AQEjqzBLzxox0A/profile-displaybackgroundimage-shrink_350_1400/0/1702918494934?e=1708560000&v=beta&t=WOJGDPcpsNfTNkk-gePH6p3ZZFOHBn7W7FFp7N4rT0M"\>
 
-## Featured Projects ✨
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhini1227&label=Profile%20views&color=0e75b6&style=flat" alt="nandhini1227" /> </p>
 
-This section is crucial!  Describe 2-3 of your BEST projects in detail.  For each project:
+<a href="https://github.com/nandhini1227/github-profile-trophy"\>\<h2>🏆 Github Profile Trophy</h2></a>
 
-* **Project Title:** (Use a catchy and descriptive title)
-* **Brief Description:**  (1-2 sentences explaining the project's purpose and functionality)
-* **Key Technologies:** (List the technologies used - React, Node.js, Express.js, MongoDB, etc.)
-* **Challenges Overcome:** (Briefly mention any significant challenges you faced and how you overcame them – this demonstrates problem-solving skills)
-* **Link to Repository:** (Include a direct link to your GitHub repository)
-* **Screenshot/GIF:** (A compelling visual is crucial.  Show the project in action!)
+<a href="https://github.com/nandhini1227/github-profile-trophy"\>
 
-**Example:**
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=nandhini1227&column=9&theme=gruvbox&no-frame=true"/\>
 
-### Project Title:  E-commerce App
+</a>
 
-*Brief Description:* A fully functional e-commerce application allowing users to browse, add to cart, and purchase products.
-*Key Technologies:* React, Node.js, Express.js, MongoDB, Stripe (for payments).
-*Challenges Overcome:* Implementing secure user authentication and handling complex database queries efficiently.
-*[Link to Repository](https://github.com/yourusername/ecommerce-app)*
-<img src="your_project_screenshot.png" alt="E-commerce App Screenshot" width="300">
+💻 I’m currently studying on Fullstack developement(MERN)
 
+🌱 I’m currently learning anything
 
-<!-- Repeat this section for your other projects -->
+Ask me about MERN stack and related technologies
 
+📫 How to reach me <a href="mailto:nandhuvigneshpb13@gmail.com">nandhuvigneshpb13@gmail</a>
 
----
+🚩 Fun Fact: i am funny 🤔🖥
 
-## Skills & Technologies 🛠️
+<h2><b>My Skills 🚀 </b> </h2>
 
-Instead of just badges, create a visually appealing list organized by category.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69996843/178092319-5dc63ad1-2fb9-4260-9e5a-eb63f79cbeb0.png"\>
 
-**Frontend:** HTML, CSS, JavaScript, React, Redux (or other state management), Bootstrap/Material UI (or other UI frameworks)
-**Backend:** Node.js, Express.js, MongoDB, RESTful APIs
-**Databases:** MongoDB, [Other databases if applicable]
-**Tools:** Git, VS Code, Docker (if applicable), [Other relevant tools]
+<h2><b>Always Connect with Me</b> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px" width="100px"> </h2>
 
+<a href = 'www.linkedin.com/in/nandhu1294'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/\>\</a>
 
----
+<a href = 'https://leetcode.com/nandhiniperumal1227/'\> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/leetcode.svg"/\>\</a>
 
-## Connect With Me 🤝
+<a href = 'https://auth.geeksforgeeks.org/user/nandhuvig4jkt'\> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/geeksforgeeks.svg"/\>\</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn" width="32"></a>
-  <a href="mailto:your_email@example.com"><img src="https://i.imgur.com/4pK304o.png" alt="Email" width="32"></a> <!-- Add a relevant email icon -->
-  <a href="https://github.com/nandhini1227"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub" width="32"></a>
-  <!-- Add other relevant links (Portfolio, personal website etc.) -->
-</p>
+<a href = 'https://github.com/nandhini1227'\> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/\>\</a>
 
+<br>
 
----
+<br>
 
-## GitHub Stats 📊
+<h2><b>My Technical & All Over Skills⚡</b> </h2>
 
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhini1227&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhini1227&show_icons=true&theme=radical&layout=compact)
-</p>
+HTML5 CSS3
 
----
+Bootstrap
 
-**Thank you for visiting my profile!**
+JavaScript
+
+React NodeJS !
+
+Express.js
+
+Canva Visual Studio Code
+
+Git
+
+GitHub
+
+<h2> <b>My GitHub Status 👨‍💻 </b> </h2>
+
+nandhini's GitHub stats
+
+Top Langs
+
+GitHub Streak
+
+<h3 align= 'center' style="color: fuchsia"><b>Thanks for watching My Repo!!😍💖</b></h3>
+
+attract github profile viewers
+
+raw.githubuse...
+media.licdn.c...
+komarev.com
+github.com
+gmail.com
+user-images.g...
+raw.githubuse...
+www.linkedin....
+raw.githubuse...
+leetcode.com
+raw.githubuse...
+auth.geeksfor...
+raw.githubuse...
+github.com
+raw.githubuse...
+img.shields.i...
+img.shields.i...
+img.shields.i...
+img.shields.i...
+img.shields.i...
+img.shields.i...
+img.shields.i...
+img.shields.i...
+img.shields.i...
+img.shields.i...
+img.shields.i...
+github-readme...
+git.io
+
